@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f8f2ac438cf554db44c6819151a13c, type: 3}
+  m_Name: SC_Oshama3
+  m_EditorClassIdentifier: 
+  songId: oshama3
+  title: Oshama 3
+  artist: Suno AI
+  coverSprite: {fileID: 0}
+  audioClip: {fileID: 8300000, guid: 90a209d4593063d4d8c17dfa9052574f, type: 3}
+  previewStartTime: 70
+  previewDuration: 16
+  easyChart: {fileID: 4900000, guid: db4ec93630383b8f4aca2437069aec4e, type: 3}
+  normalChart: {fileID: 4900000, guid: 6fa35f85345efa58ec8d5981e8190010, type: 3}
+  hardChart: {fileID: 4900000, guid: 655c47affc3a30d31f652cf35b9a02ca, type: 3}

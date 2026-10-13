@@ -1,0 +1,1045 @@
+{
+  "songId": "oshama2",
+  "title": "Oshama 2",
+  "artist": "Suno AI",
+  "audioFile": "oshama2.mp3",
+  "difficulty": "Easy",
+  "level": 7,
+  "bpm": 191.364,
+  "offset": 0.22842,
+  "spawnAheadTime": 2.5,
+  "notes": [
+    {
+      "time": 3.991,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 5.245,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 10.262,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 10.575,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 11.202,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 11.829,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 13.397,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 14.651,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 14.965,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 15.278,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 15.592,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 20.922,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 21.236,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 21.549,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 21.863,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 22.803,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 23.744,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 24.057,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 24.371,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 24.684,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 24.998,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 25.312,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 25.625,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 26.252,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 26.566,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 26.879,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 27.193,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 27.506,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 27.82,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 28.76,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 29.074,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 29.388,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 29.701,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 30.015,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 30.328,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 30.642,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 30.955,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 31.269,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 31.582,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 43.183,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 43.497,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 43.81,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 44.124,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 44.437,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 44.751,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 45.064,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 45.378,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 45.692,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 46.005,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 46.319,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 46.632,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 46.946,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 47.259,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 47.573,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Light"
+    },
+    {
+      "time": 47.886,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 48.2,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 48.513,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 48.827,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 49.14,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 49.454,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 49.768,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 50.081,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 50.395,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 50.708,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 51.022,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 51.335,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 51.649,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 51.962,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 52.276,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 52.589,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 52.903,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 53.217,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 53.53,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 53.844,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 54.157,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 54.471,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 54.784,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 55.098,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 55.411,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 55.725,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 56.038,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 56.352,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 56.665,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 56.979,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 57.293,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 57.606,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 57.92,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 58.233,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 58.547,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 58.86,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 59.801,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 60.428,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 60.741,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 62.936,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 63.25,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 63.563,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 63.877,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 64.19,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 64.504,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 64.817,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 65.131,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 65.445,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 65.758,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 66.385,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 66.699,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 67.012,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 68.893,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 69.521,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 69.834,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 70.148,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 70.461,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 70.775,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 71.402,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 71.715,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 72.029,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 72.342,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 72.656,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 72.969,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 73.283,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 73.597,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 73.91,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 74.224,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 74.537,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 74.851,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 75.164,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 75.478,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 75.791,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 76.105,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 76.418,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 76.732,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 77.045,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 77.673,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 77.986,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 78.3,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 78.613,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 79.867,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 80.808,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 81.121,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 95.231,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 95.544,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 97.425,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 98.366,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 98.993,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 99.934,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 113.416,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 113.73,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 114.043,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 114.357,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 114.67,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 114.984,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 115.297,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 115.611,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 115.924,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 116.238,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 116.551,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 116.865,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Heavy"
+    },
+    {
+      "time": 117.492,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 117.806,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 137.872,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 138.186,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 138.813,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 139.126,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 139.753,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 140.067,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 140.694,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Stabilize"
+    },
+    {
+      "time": 141.007,
+      "lane": 2,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 141.321,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 141.634,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 141.948,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 142.575,
+      "lane": 1,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 142.889,
+      "lane": 3,
+      "type": "Tap",
+      "weightType": "Normal"
+    },
+    {
+      "time": 143.202,
+      "lane": 0,
+      "type": "Tap",
+      "weightType": "Normal"
+    }
+  ]
+}
